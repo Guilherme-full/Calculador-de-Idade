@@ -23,7 +23,7 @@ a partir da data de nascimento que é inserida.
 from  datetime import datetime
 ```
 
-Função
+## Função
 ```
 def idade(data_nascimento):
     from datetime import datetime
