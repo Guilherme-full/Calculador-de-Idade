@@ -1,8 +1,8 @@
 # Projeto Calculador de Idade (Guilherme Xavier Souza)
 
-## Download do Projeto
+## Clonar Repositório
 ```
-gh repo clone Guilherme-full/Calculador-de-Idade
+git clone https://github.com/Guilherme-full/Calculador-de-Idade.git
 ```
 
 |          | Linux | macOS | Windows |
